@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    margin: 0;
+    padding: 20px;
+}
+
+.student-card {
+    width: 350px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px gray;
+}
+
+.student-card h2 {
+    text-align: center;
+}
+
+.student-card p {
+    font-size: 18px;
+}
